@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from week_06.square import square
+from week_05.square import square
 
 
 class Test(TestCase):
