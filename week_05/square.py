@@ -9,5 +9,17 @@ def square(number):
 
     >>> square(3)
     9
+    >>> square(-3)
+    9
+    >>> square(0)
+    0
     """
     return number * number
+
+
+def main():
+    print("The square of 2 is", square(2))
+
+
+if __name__ == "__main__":
+    main()
