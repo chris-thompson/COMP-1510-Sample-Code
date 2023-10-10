@@ -13,7 +13,7 @@ bonus = 1200.0
 
 # Calculate the total pay by adding salary
 # and bonus. Assign the result to a new variable called pay.
-pay = salary + bonus + 0
+pay = salary + bonus + 250
 
 # Display the value stored at pay.
 print(pay)

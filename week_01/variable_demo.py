@@ -7,7 +7,7 @@ We call the equal sign an assignment operator.
 
 We copy the address of the value on the right into the variable on the left.
 
-In this case, there is an integer in memory, 503, and it occupies some space.
+In this case, there is an integer in memory, 420, and it occupies some space.
 That space has an address. That address is what we store in the variable room.
 
 We do this because it is easier for humans to remember the word room than it
